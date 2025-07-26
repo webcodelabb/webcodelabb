@@ -1,21 +1,21 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://yourportfolio.com" target="_blank">WebCodeLab</a></h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://yourportfolio.com" target="_blank">Muhammad Aminu (Webcodelab)</a></h1>
 <p align="center">
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/webcodelab1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/webcodelab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/234XXXXXXXXXX" target="_blank">
+  <a href="https://wa.me/2348101106111" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:webcodelabb.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+WebCodeLab;Full-Stack+Web+%26+App+Developer;AI%2BTool+Builder+%7C+Freelancer+%7C+Dev-for-Hire;Loves+clean+code+and+shipping+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Muhammad+Aminu;Full-Stack+Web+%26+App+Developer;AI%2BTool+Builder+%7C+Freelancer+%7C+Dev-for-Hire;Loves+clean+code+and+shipping+products" alt="Typing SVG" />
 </p>
 
 ---
