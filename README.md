@@ -80,7 +80,7 @@
 - 🔗 [Portfolio](https://webcodelab.pythonanywhere.com/)
 - 📧 webcodelabb@gmail.com  
 - 💬 [WhatsApp Chat](https://wa.me/2348101106111)  
-- 🌍 [Gumroad Shop].(https://webcodelab.gumroad.com/l/wcwvg)
+- 🌍 [Gumroad Shop](https://webcodelab.gumroad.com/l/wcwvg)
 
 ---
 
