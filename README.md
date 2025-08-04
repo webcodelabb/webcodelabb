@@ -69,11 +69,11 @@
 <details open>
 <summary>Top Repositories</summary>
 <p align="center">
-    <a href="https://github.com/webcodelab/Smart-Basket">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webcodelab&repo=Smart-Basket&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    <a href="https://github.com/webcodelabb/AI-Resume-Ranker-API">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webcodelabb&repo=AI-Resume-Ranker-API&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
-    <a href="https://github.com/webcodelab/FakeReviewDetector">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webcodelab&repo=FakeReviewDetector&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    <a href="https://github.com/webcodelab/fake-review-detector">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webcodelabb&repo=fake-review-detector&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
 </p>
 </details>
