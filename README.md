@@ -100,7 +100,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=webcodelabb&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/webcodelab/webcodelab/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/webcodelabb/webcodelabb/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 </details>
