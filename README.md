@@ -1,91 +1,110 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://webcodelab.pythonanywhere.com" target="_blank">Muhammad Aminu (Webcodelab)</a></h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Muhammad Aminu Umar</h1>
+
 <p align="center">
-  <a href="https://twitter.com/webcodelab1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/webcodelab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/2348101106111" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:webcodelabb.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Focus-Web/App%20Development-C2FFC7?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-AI/ML%20Development-CB9DF0?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-Automation-C2FFC7?style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Muhammad+Aminu;Full-Stack+Web+%26+App+Developer;AI%2BTool+Builder+%7C+Freelancer+%7C+Dev-for-Hire;Loves+clean+code+and+shipping+products" alt="Typing SVG" />
+    <img src="https://komarev.com/ghpvc/?username=webcodelab&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
 </p>
 
----
-
-## 💼 About Me
-
-- 💻 I’m a **full-stack developer** who builds modern web apps, automation tools, and AI-powered APIs.
-- 📚 Currently learning **LangChain**, **Next.js**, and **LLM integrations**.
-- 🔭 Working on AI Resume Rankers, Job Scrapers, Hospital Systems, and SaaS Templates.
-- 🛠️ Passionate about clean UI, fast backends, and automation that makes life easier.
-- 🤝 Open to freelance gigs, collabs, and build-to-sell projects.
-
----
-
-## 🧰 Tech Stack
-
-### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Frameworks & Tools  
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### Platforms  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square&logo=huggingface)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-
----
-
-## 🔥 My GitHub Stats
-
+<details open>
+<summary>Connect With Me</summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WebCodeLab&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebCodeLab&theme=tokyonight&hide_border=true" width="48%" />
+    <a href="https://www.linkedin.com/in/webcodelab">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://t.me/+2348101106111">
+        <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    <a href="https://wa.me/2348101106111">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
 </p>
+</details>
 
+<details open>
+<summary>Developer Quote</summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebCodeLab&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Building+for+Africa,+Aiming+for+the+World;Solving+Real-World+Problems+with+Code." alt="Developer Quote"/>
 </p>
+</details>
 
----
+<details open>
+<summary>About Me</summary>
+<ul>
+<li>👨‍💻 Founder of <strong>WebCodeLab</strong></li>
+<li>🌍 Passionate about solving global problems through technology</li>
+<li>🔧 Skilled in PHP, Python, React, React Native, HTML, CSS (Tailwind), JS</li>
+<li>📁 Portfolio: <a href="https://webcodelab.pythonanywhere.com/">webcodelab.pythonanywhere.com</a></li>
+<li>🛍 Marketplace: <a href="https://webcodelab.pythonanywhere.com/marketplace/">View Products</a></li>
+<li>📫 Email: <strong>webcodelabb@gmail.com</strong></li>
+<li>⚡ Vision: Empower developers and businesses globally, not just Africa</li>
+</ul>
+</details>
 
-## 📌 Featured Projects
-
-- **SmartBasket** – E-commerce site with Django + Tailwind + Admin system  
-- **AI Resume Ranker** – Flask API using NLP for job-to-resume scoring  
-- **Freelance Lead Scraper** – Python scraper across 10+ platforms  
-- **Hospital Manager** – Laravel HMS with patient file logic  
-- **Jobboard API** – Aggregator for tech jobs via scraping
-
----
-
-## 📬 Reach Me
-
-- 🔗 [Portfolio](https://webcodelab.pythonanywhere.com/)
-- 📧 webcodelabb@gmail.com  
-- 💬 [WhatsApp Chat](https://wa.me/2348101106111)  
-- 🌍 [Gumroad Shop](https://webcodelab.gumroad.com/l/wcwvg)
-
----
-
+<details open>
+<summary>Skills & Tools</summary>
+<h3 align="center">Languages & Frameworks</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WebCodeLab&theme=darkhub&no-frame=true&row=1" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </p>
 
-> 🚀 “Code fast. Learn faster. Deliver real value.”
+<h3 align="center">AI & Automation Tools</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+</p>
+</details>
+
+<details open>
+<summary>Top Repositories</summary>
+<p align="center">
+    <a href="https://github.com/webcodelab/Smart-Basket">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webcodelab&repo=Smart-Basket&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/webcodelab/FakeReviewDetector">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webcodelab&repo=FakeReviewDetector&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+</p>
+</details>
+
+<details open>
+<summary>GitHub Contribution Chart</summary>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=webcodelab&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p>
+</details>
+
+<details open>
+<summary>GitHub Stats</summary>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=webcodelab&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+</p>
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=webcodelab&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" />
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=webcodelab&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+</p>
+</details>
+
+<details open>
+<summary>Thanks for Visiting</summary>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
+</p>
+<p align="center"><strong>"Keep building solutions. Stay focused. Code for impact."</strong></p>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
+</p>
+</details>
