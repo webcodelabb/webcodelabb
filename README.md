@@ -88,13 +88,13 @@
 <details open>
 <summary>GitHub Stats</summary>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=webcodelab&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=webcodelabb&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
 </p>
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=webcodelab&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" />
+    <img src="https://streak-stats.demolab.com?user=webcodelabb&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" />
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=webcodelab&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    <img src="https://github-profile-trophy.vercel.app/?username=webcodelabb&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
 </p>
 </details>
 
