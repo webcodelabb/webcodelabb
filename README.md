@@ -69,6 +69,9 @@
 <details open>
 <summary>Top Repositories</summary>
 <p align="center">
+    <a href="https://github.com/webcodelabb/KnowledgeOps-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=webcodelabb&repo=KnowledgeOps-AI&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
     <a href="https://github.com/webcodelabb/InsightAI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=webcodelabb&repo=InsightAI&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
