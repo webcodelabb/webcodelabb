@@ -38,8 +38,8 @@
 <li>👨‍💻 Founder of <strong>WebCodeLab</strong></li>
 <li>🌍 Passionate about solving global problems through technology</li>
 <li>🔧 Skilled in PHP, Python, React, React Native, HTML, CSS (Tailwind), JS</li>
-<li>📁 Portfolio: <a href="https://webcodelab.pythonanywhere.com/">webcodelab.pythonanywhere.com</a></li>
-<li>🛍 Marketplace: <a href="https://webcodelab.pythonanywhere.com/marketplace/">View Products</a></li>
+<li>📁 Portfolio: <a href="https://webcodelab.com.ng/">View Site</a></li>
+<li>🛍 Marketplace: <a href="https://webcodelab.com.ng/marketplace/">View Products</a></li>
 <li>📫 Email: <strong>webcodelabb@gmail.com</strong></li>
 <li>⚡ Vision: Empower developers and businesses globally, not just Africa</li>
 </ul>
