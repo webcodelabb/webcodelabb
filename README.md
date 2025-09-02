@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/webcodelab">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://t.me/+2348101106111">
+    <a href="https://t.me/webcodelab">
         <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     <a href="https://wa.me/2348101106111">
